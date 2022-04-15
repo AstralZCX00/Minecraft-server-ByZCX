@@ -1,0 +1,63 @@
+[21:16:10] [ServerMain/WARN]: Failed to add PDH Counter: \Paging File(_Total)\% Usage, Error code: 0xC0000BB8
+[21:16:10] [ServerMain/WARN]: Failed to add counter for PDH counter: \Paging File(_Total)\% Usage
+[21:16:10] [ServerMain/WARN]: Disabling further attempts to query Paging File.
+[21:16:10] [ServerMain/WARN]: COM exception: Invalid Class Win32_PerfRawData_PerfOS_PagingFile
+[21:16:13] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:16:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:16:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:16:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:16:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[21:16:14] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[21:16:16] [Worker-Main-17/INFO]: Loaded 7 recipes
+[21:16:16] [Worker-Main-17/INFO]: Loaded 1141 advancements
+[21:16:18] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[21:16:18] [Server thread/INFO]: Loading properties
+[21:16:18] [Server thread/INFO]: Default game type: SURVIVAL
+[21:16:18] [Server thread/INFO]: Generating keypair
+[21:16:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:16:18] [Server thread/INFO]: Using default channel type
+[21:16:18] [Server thread/INFO]: Preparing level "world"
+[21:16:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:16:27] [Worker-Main-27/INFO]: Preparing spawn area: 0%
+[21:16:27] [Worker-Main-27/INFO]: Preparing spawn area: 0%
+[21:16:27] [Worker-Main-27/INFO]: Preparing spawn area: 0%
+[21:16:28] [Worker-Main-24/INFO]: Preparing spawn area: 0%
+[21:16:28] [Worker-Main-30/INFO]: Preparing spawn area: 0%
+[21:16:29] [Worker-Main-25/INFO]: Preparing spawn area: 0%
+[21:16:29] [Worker-Main-18/INFO]: Preparing spawn area: 1%
+[21:16:30] [Worker-Main-23/INFO]: Preparing spawn area: 1%
+[21:16:30] [Worker-Main-25/INFO]: Preparing spawn area: 3%
+[21:16:31] [Worker-Main-24/INFO]: Preparing spawn area: 6%
+[21:16:31] [Worker-Main-22/INFO]: Preparing spawn area: 10%
+[21:16:32] [Worker-Main-29/INFO]: Preparing spawn area: 15%
+[21:16:33] [Worker-Main-16/INFO]: Preparing spawn area: 18%
+[21:16:33] [Worker-Main-16/INFO]: Preparing spawn area: 18%
+[21:16:33] [Worker-Main-24/INFO]: Preparing spawn area: 22%
+[21:16:34] [Worker-Main-20/INFO]: Preparing spawn area: 28%
+[21:16:34] [Worker-Main-21/INFO]: Preparing spawn area: 31%
+[21:16:35] [Worker-Main-21/INFO]: Preparing spawn area: 35%
+[21:16:35] [Worker-Main-24/INFO]: Preparing spawn area: 42%
+[21:16:36] [Worker-Main-28/INFO]: Preparing spawn area: 47%
+[21:16:37] [Worker-Main-20/INFO]: Preparing spawn area: 53%
+[21:16:37] [Worker-Main-29/INFO]: Preparing spawn area: 54%
+[21:16:37] [Worker-Main-20/INFO]: Preparing spawn area: 57%
+[21:16:38] [Worker-Main-29/INFO]: Preparing spawn area: 63%
+[21:16:38] [Worker-Main-24/INFO]: Preparing spawn area: 68%
+[21:16:39] [Worker-Main-20/INFO]: Preparing spawn area: 72%
+[21:16:39] [Worker-Main-29/INFO]: Preparing spawn area: 80%
+[21:16:40] [Worker-Main-18/INFO]: Preparing spawn area: 86%
+[21:16:40] [Worker-Main-20/INFO]: Preparing spawn area: 89%
+[21:16:41] [Worker-Main-28/INFO]: Preparing spawn area: 95%
+[21:16:41] [Server thread/INFO]: Time elapsed: 14686 ms
+[21:16:41] [Server thread/INFO]: Done (22.736s)! For help, type "help"
+[21:16:59] [Server thread/INFO]: Stopping the server
+[21:16:59] [Server thread/INFO]: Stopping server
+[21:16:59] [Server thread/INFO]: Saving players
+[21:16:59] [Server thread/INFO]: Saving worlds
+[21:17:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:17:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:17:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:17:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:17:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:17:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:17:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
