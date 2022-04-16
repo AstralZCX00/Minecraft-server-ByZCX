@@ -1,0 +1,23 @@
+{
+  "name" : "NotAstral__",
+  "playerSetting" : {
+    "displayTitle" : {
+      "selected" : true
+    },
+    "hideCommandDescription" : {
+      "selected" : false
+    },
+    "titlePosition" : {
+      "selected" : 0
+    },
+    "bossBars" : {
+      "selected" : true
+    },
+    "factionJoinTimeout" : {
+      "selected" : "-1"
+    },
+    "showNotifications" : {
+      "selected" : true
+    }
+  }
+}

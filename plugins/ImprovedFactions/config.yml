@@ -1,0 +1,48 @@
+commands:
+  forbidden:
+  - 'tellraw @a {"text":"This word, {word}, is maybe similar to {similar}. Used: {player_name},
+    {player_uuid} while {task}. {similarityPer}% similar "}'
+  standby:
+  - tellraw @a {"text":"Standby enabled"}
+faction:
+  invitationTimeout: 300
+  maxNameLen: 10
+  allowExplosions: true
+  joinTimeout: 24
+  permanent: false
+history:
+  territoryChange: false
+power:
+  enabled: true
+  chunkPowerConsume: 3
+  memberDeathConsume: 10
+  regenerationPerHour: 4
+  maxDefaultFaction: 20
+  maxPowerPerPlayer: 5
+forbidden:
+  factionNames:
+  - fuck
+  - ass
+  - stupid
+  checkLeetspeak: true
+  reportAtPercent: 39.99
+  disbandAtPercent: 69.99
+  checkFactionNames: true
+gui:
+  wrapLength: 20
+  closeGuiCps: 10
+  maxCps: 5
+general:
+  debugMode: false
+  colorConsole: true
+  useSQL: false
+  commandDescriptions: true
+  printStacktrace: false
+  prefix: '&e&lImprovedFactions'
+  sendCrashesToGithub: true
+debug:
+  logLevel:
+  - INFO
+  - WARNING
+  - SEVERE
+version: '1.0'

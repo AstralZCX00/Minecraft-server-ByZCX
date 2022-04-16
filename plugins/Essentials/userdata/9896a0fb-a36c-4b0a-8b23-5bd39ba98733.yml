@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.1.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1650113224070
+  login: 1650113165709
+money: '0'
+last-account-name: NotAstral__
+logoutlocation:
+  world: 96891742-c34b-490d-a071-3d843703fb67
+  world-name: world
+  x: -322.8231362785847
+  y: 63.0
+  z: 156.42352136598828
+  yaw: -89.97528076171875
+  pitch: 10.531919479370117
